@@ -1,0 +1,15 @@
+- HTTP is Hypertext Transfer Protocol. It is a procedural standard by which HTML requests are sent and received.
+- URL is Uniform Resource Locator. It is a unique address of a resource on the internet.
+- DNS is Domain Name System. It is like the internet's phonebook of hostnames and their corresponding IP Addresses.
+- Query String is a string of form inputs passed as part of a GET request to the server.
+- GET and POST. GET is used to make server requests without modifying any server-side data. POST is used to make
+changes to server-side data.
+- HTTP request is when someone, through a browser, is seeking to pull up a website from a server by "requesting" 
+access to the server information.
+- HTTP response is the server's response to a browser's request, and it returns HTML and related files that the 
+browser can render into a website.
+- HTTP header is a set of basic data in a request or response. Request and response headers would include the date
+and time of the request / response. Requests include the hostname they're asking about, often the language the 
+browser wants information in. Responses include content type (text/html for web pages), cookies, caching info, etc.
+- An http request is sent, a DNS turns somesite.com into an IP address, the default port of 80 is chosen since
+none is specified, then /some/page.html is pulled from the web server and the page renders in the browser.
